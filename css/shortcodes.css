@@ -332,7 +332,7 @@
 	/*----*****---- << Services >> ----*****----*/
 	
 	.dt-ipad-feature-bg { position:relative; width:100%; height:100%; } 
-	.dt-ipad-feature-bg:before { background:url(../images/MiniPadMini_White.png) no-repeat; background-size: 100%; top: 5px; content: ""; display: inline-block; font-size: 50px; height: 100%; left: 0; margin: 0 auto; 
+	.dt-ipad-feature-bg:before { background:url(../Images/MiniPadMini_White.png) no-repeat; background-size: 100%; top: 5px; content: ""; display: inline-block; font-size: 50px; height: 100%; left: 0; margin: 0 auto; 
 	position: absolute; right: 0; width: 100%; padding-top: 100px; z-index: 1; }
 	.dt-ipad-feature-bg img { margin-left: 0px; margin-top: 68px; }
 	.dt-sc-ico-content { float:left; display:inline-block; position:relative;}
@@ -440,7 +440,7 @@
 	
 	.dt-sc-contact-form { width:50%; float:left; background: #fff; }
 	
-	.dt-sc-contact-form .contact-form { width: 100%; float: left; background:url(../images/contact-form-bg.png) no-repeat; background-position: center right;background-size: 90%; padding: 120px 0px 50px; position:relative; }
+	.dt-sc-contact-form .contact-form { width: 100%; float: left; background:url(../Images/contact-form-bg.png) no-repeat; background-position: center right;background-size: 90%; padding: 120px 0px 50px; position:relative; }
 	.dt-sc-contact-form .contact-form p { background: #fff; overflow:hidden; margin-bottom: 20px; }
 	.dt-sc-contact-form .contact-form p input , .dt-sc-contact-form .contact-form p textarea { border:none; width: 75%; float:left; padding: 12px 0px 12px 12px; margin:0; }
 	.dt-sc-contact-form .contact-form p.submit:hover input , #comment-form p.submit:hover input { color: #fff; }
