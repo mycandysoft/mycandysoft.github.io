@@ -582,7 +582,7 @@
 	/*----*****---- << Content >> ----*****----*/
 	
 	.content-fullwidth { width:100%; clear: both; float: left; margin: 0; padding: 0; width: 100%; }
-	.main { background-color:#fff; }
+	.main { background-color:#fff;}
 	
 	.animate { visibility:hidden; }
 		
