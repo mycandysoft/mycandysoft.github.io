@@ -1548,7 +1548,8 @@
 	.banner img { width:100%; height:auto;}
 	#layerslider{display: none;}
     #layerslider1, #layerslider1 .ls-slider { display: block !important;background: url('../js/layerslider/Images/bg2.jpg');background-size: 100% 100%; height:100%;}
-	#home,.banner , .lower, .lower .ls-inner, .lower .ls-slider{height: 100% !important;}
+	#home{height: calc(100% - 50px) !important; }
+	.banner , .lower, .lower .ls-inner, .lower .ls-slider{height: 100% !important;}
 	#layerslider1 p{text-align: center; width: 100%; font-size: 20px;float: left; margin-right: 10px;color: white;font-weight: 800;font-family: Lato, 'Open Sans', sans-serif; margin-top: 10px;}
 	#layerslider1 p span{font-size: 28px;}
 	 #layerslider1 .symbols{display: inline-block;width: calc(100% - 30px);padding: 0 15px;}
