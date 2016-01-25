@@ -616,9 +616,9 @@
 	.boxed .tabs-container.team-tab .tabs-frame-content .team-details .team-details-info { width: 75%; }
 	.boxed .tabs-frame-content  .team-details .column.no-space.dt-sc-one-fourth { right: 5%;  }
 	
-	.tabs-container.team-tab .tabs-frame-content:nth-child(2) .team-details img.alignleft { float: left; width: 380px; height: 302px; }
-	.tabs-container.team-tab .tabs-frame-content:nth-child(3) .team-details img.alignleft { float: left; width: 380px; height: 278px; }
-	.tabs-container.team-tab .tabs-frame-content:nth-child(4) .team-details img.alignleft { float: left; width: 380px; height: 278px; }
+	.tabs-container.team-tab .tabs-frame-content:nth-child(2) .team-details img.alignleft { float: left; width: 380px;/* height: 302px; */}
+	.tabs-container.team-tab .tabs-frame-content:nth-child(3) .team-details img.alignleft { float: left; width: 380px;/* height: 278px; */}
+	.tabs-container.team-tab .tabs-frame-content:nth-child(4) .team-details img.alignleft { float: left; width: 380px;/* height: 278px; */}
 	
 	.boxed .tabs-container.team-tab .tabs-frame-content .team-details .team-details-info .dt-sc-one-column.column { margin-left: -160px; }
 	.boxed .tabs-container.team-tab .tabs-frame-content p { margin-top: 12px; }
